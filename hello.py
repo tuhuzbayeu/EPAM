@@ -1,2 +1,2 @@
-print("hello world_2!")
+print("hello world!")
 print("EPAM!!!")
